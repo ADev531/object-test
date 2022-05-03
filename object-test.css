@@ -1,4 +1,4 @@
 box {
-  outline : var(--line_color);
+  outline : var(--linecolor);
   background-color : var(--fillcolor);
 }
